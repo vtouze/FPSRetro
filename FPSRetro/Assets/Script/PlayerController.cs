@@ -10,7 +10,9 @@ public class PlayerController : MonoBehaviour
     private Vector2 _moveInput;
     private Vector2 _mouseInput;
     [SerializeField] private float _mouseSensitivity = 1f;
-    [SerializeField] private Transform _viewCamera = null;
+    [SerializeField] private Camera _viewCamera = null;
+    [SerializeField] private GameObject _bulletImpact = null;
+    [SerializeField] private int _currentAmmo;
     #endregion Fields
 
     void Start()
@@ -31,8 +33,30 @@ public class PlayerController : MonoBehaviour
         #region Player View Control
         _mouseInput = new Vector2(Input.GetAxisRaw("Mouse X"), Input.GetAxisRaw("Mouse Y")) * _mouseSensitivity;
         transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z - _mouseInput.x);
-        _viewCamera.localRotation = Quaternion.Euler(_viewCamera.localRotation.eulerAngles + new Vector3(0f, _mouseInput.y, 0f));
+        _viewCamera.transform.localRotation = Quaternion.Euler(_viewCamera.transform.localRotation.eulerAngles + new Vector3(0f, _mouseInput.y, 0f));
         #endregion Player View Control
+        #region Shooting
+        if(Input.GetMouseButtonDown(0))
+        {
+            if(_currentAmmo > 0)
+            {
+                Ray ray = _viewCamera.ViewportPointToRay(new Vector3(.5f, .5f, 0f));
+                RaycastHit hit;
+                if(Physics.Raycast(ray, out hit))
+                {
+                    //Debug.Log("I'm looking at " + hit.transform.name);
+                    Instantiate(_bulletImpact, hit.point, transform.rotation);
+                }
+                else
+                {
+                    Debug.Log("I'm looking at nothing!");
+                }
+                _currentAmmo--;
+            }
+        }
+        #endregion Shooting
+
+
         #endregion Methods
     }
 }
