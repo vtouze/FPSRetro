@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     #region Fields
+    public static PlayerController _playerInstance;
     [SerializeField] private Rigidbody2D _rb = null;
     [SerializeField] private float _moveSpeed;
     private Vector2 _moveInput;
@@ -12,12 +13,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float _mouseSensitivity = 1f;
     [SerializeField] private Camera _viewCamera = null;
     [SerializeField] private GameObject _bulletImpact = null;
-    [SerializeField] private int _currentAmmo;
+    public int _currentAmmo;
+    [SerializeField] private Animator _gunAnim;
     #endregion Fields
 
-    void Start()
+    void Awake()
     {
-        
+        _playerInstance = this;
     }
 
     void Update()
@@ -49,9 +51,10 @@ public class PlayerController : MonoBehaviour
                 }
                 else
                 {
-                    Debug.Log("I'm looking at nothing!");
+                    //Debug.Log("I'm looking at nothing!");
                 }
                 _currentAmmo--;
+                _gunAnim.SetTrigger("Shoot");
             }
         }
         #endregion Shooting
