@@ -20,6 +20,8 @@ public class AmmoPickUp : MonoBehaviour
         if (other.tag == "Player")
         {
             PlayerController._playerInstance._currentAmmo += _ammoAmount;
+            PlayerController._playerInstance.UpdateAmmoUI();
+
             Destroy(gameObject);
         }
     }

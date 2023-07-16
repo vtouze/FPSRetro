@@ -9,9 +9,15 @@ public class EnemyController : MonoBehaviour
     [SerializeField] private float _playerRange = 10f;
     [SerializeField] Rigidbody2D _rb = null;
     [SerializeField] private float _moveSpeed;
+    private bool _shouldShoot;
+    [SerializeField] float _fireRate = .5f;
+    private float _shotCounter;
+    [SerializeField] private GameObject _bullet = null;
+    [SerializeField] private Transform _firePoint = null;
+
     void Start()
     {
-        
+        _shouldShoot = true;
     }
 
     void Update()
@@ -20,6 +26,17 @@ public class EnemyController : MonoBehaviour
         {
             Vector3 playerDirection = PlayerController._playerInstance.transform.position - transform.position;
             _rb.velocity = playerDirection.normalized * _moveSpeed;
+
+            if(_shouldShoot)
+            {
+                _shotCounter -= Time.deltaTime;
+
+                if(_shotCounter <= 0)
+                {
+                    Instantiate(_bullet, _firePoint.position, _firePoint.rotation);
+                    _shotCounter = _fireRate;
+                }
+            }
         }
         else
         {
