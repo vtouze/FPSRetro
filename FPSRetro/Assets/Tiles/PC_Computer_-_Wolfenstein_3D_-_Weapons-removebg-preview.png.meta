@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: baab55131944abf41afb2e06ca417980
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a17622d678cd246a85da25053471c4
+      internalID: 1242302949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3424757cca7c14098921a4eecf1291
+      internalID: -1983194879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c1752d150e934cb8155ebcd6a5a98
+      internalID: 1882972860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 227
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1a5438b6d67d48b9c18cb48523ad5
+      internalID: -20438609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 227
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd0c7e99434e94bad382ebdccf131e
+      internalID: 1081743651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dbfa24dd7dab2468d407354b0caf3b
+      internalID: -1702110164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216941793e7944845ac8277347d144f2
+      internalID: -1798831516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523eef1915e03241b91296aaf8e975b
+      internalID: 1846373632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a4a96e6263bc42b74bc944cac5fd0
+      internalID: -513494354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 163
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c1b21c1ae94a4696c480d591c9043
+      internalID: 762914515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93bd1ac78d539d46b4d0d383a9bf1c3
+      internalID: -239441239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab37e3adaa7b94b9009ab79e8dc221
+      internalID: -758011395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef840e59e830fc469513b913fe68f26
+      internalID: -830428813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 99
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747389e63d31aff4784ead65b383ec2c
+      internalID: 702358360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c391f2a197aa2488e724de82e9d2b4
+      internalID: -1451315239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf35554d52b5b4d8f5a83d45b27f17
+      internalID: -819713787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d84af8618960489853ddf2b0d05c1
+      internalID: -38877050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f67d2da953e2443b3bee577c8f5716
+      internalID: -354682834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70fd39d8af71e40914f8c0fb465d82
+      internalID: -142761984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_0: 1242302949
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_1: -1983194879
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_10: -239441239
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_11: -758011395
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_12: -830428813
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_13: 702358360
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_14: -1451315239
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_15: -819713787
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_16: -38877050
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_17: -354682834
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_18: -142761984
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_2: 1882972860
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_3: -20438609
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_4: 1081743651
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_5: -1702110164
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_6: -1798831516
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_7: 1846373632
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_8: -513494354
+      PC_Computer_-_Wolfenstein_3D_-_Weapons-removebg-preview_9: 762914515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

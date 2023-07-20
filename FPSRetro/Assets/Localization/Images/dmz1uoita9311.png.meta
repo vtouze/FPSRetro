@@ -1,0 +1,5407 @@
+fileFormatVersion: 2
+guid: 8b3d10ec81aa7cb4eba9bacf7b65d9ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dmz1uoita9311_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff97bb68c90ebf646ba0ce95fb07c857
+      internalID: 204470318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0576a6dcb58604d84ab7d8e63ba347
+      internalID: 338602677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793b37b9afc76547a37fa1f7bb1b53e
+      internalID: 1055814344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969fe1225072ce4fb47eacd3b11b0e5
+      internalID: 1398863880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c060704b6b6b448b27d6fdd52718c8
+      internalID: 389976503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b1425f31ae6147a97d8148c2d7bcc
+      internalID: -2136960497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c59963335b89a44b600da43e049168
+      internalID: 1020833206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c150905703e7140a7a18ae615a1931
+      internalID: 988338177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845ff09b8d195844b52ea9ffdfd716b
+      internalID: -1384467306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f76bc323f02f94abeaa15fad3ad951
+      internalID: 1972857859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_10
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a59eb6939e9af458ee097978ba6f4b
+      internalID: 484355704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c4daa891e34f4793f75f09e214f76
+      internalID: -1575005822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_12
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90503c2989c794c8b7cf076a29cb24
+      internalID: -151659393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_13
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56e6e0d13640f14da7c3a35d8e1260c
+      internalID: 2108415666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_14
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c91418c0aa3ee44a302e1c209078c7
+      internalID: 1482619275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e450b12da7a946aba18e172b17c02
+      internalID: 2019182664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_16
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8996e9002d4a4db3b31cbd779f718
+      internalID: -1720651235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_17
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e992b17238cb042be86ba7e6647345
+      internalID: -2024951335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_18
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52dfbb9784e414bbfa8ba110778f9f
+      internalID: -1699505371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a44e8c9496c94ba023a0012896048
+      internalID: 2086242038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a182fda3e95a4b88b6e51a4b5e7c8
+      internalID: 1032678010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ab9ad84d59af438f9d0a2b24840aa
+      internalID: -3242612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11565fac0c55a8a45a36dc14e0e5c57e
+      internalID: 595192098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05d257a8a024d4db809f3f1548aac1
+      internalID: 146254837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61922fae19c2c704da5a4dcd5c49b570
+      internalID: -890209453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce69b57734428049a73246fc91850b2
+      internalID: 1447434047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb3f472551fca4c984b743af41f23e
+      internalID: -1869425487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be187bc3ea5d5f54a8f1f640a2fe30cc
+      internalID: -1255201871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce26c49e6c1d0a449a83a9c3d34067fd
+      internalID: -541395934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_29
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b47e696e0cef42b884a6e0f72c818
+      internalID: -999771889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a150455100371045ab0be0d26e420c7
+      internalID: 1914027215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_31
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d8ae65381dd6344b1ad136bb24022e
+      internalID: 1629150151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_32
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe79f9f28df5e41bbf60bb6b403720
+      internalID: 237752859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_33
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33473e1a3b436784db70fe65837f327e
+      internalID: -1810147219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_34
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76d9bcc85b95d42ad510e63ee76232
+      internalID: 272150063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b39e15b86fa544892ddce37c2cf513
+      internalID: 1642645031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_36
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813b0e22b9b75f74c87249997f54e2ad
+      internalID: 1460675000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_37
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515744f935fc55a44b7c98a870c028bd
+      internalID: -809511023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_38
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074870620317eb49b59ca518396f8c3
+      internalID: 789026653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 855
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c971f12676a204794d165b41c6db6a
+      internalID: -455514323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3542a5f67f02438a4ccb06663e36a
+      internalID: -1626376525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32cbbfc23ef7d4f97bc46207611ee3
+      internalID: -775442169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ececd5f72b74944a8fe17311466016
+      internalID: 2074046664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c033e0f5b91f4fabdd6c4539e6bff
+      internalID: -696242661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d470ec8de2fa4f8fc23e0f28ea126
+      internalID: -539201119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ccda43ab83be4eb89f137f3140919
+      internalID: 2102173091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b090359befca4fb0fac98188cd6ff
+      internalID: 725851382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb79ad7b0a3ef439998f04c20b5808
+      internalID: -2022599488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12830b3c32a2f5e488ed77a2fbb6a4c1
+      internalID: -49010791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_49
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ecdfa5af2f7884992122f4d8b00e56
+      internalID: -693155322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_50
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37cf1b5f3d6f37489040ee849be88a8
+      internalID: 338695658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_51
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d770afa9690e141af5828d6b4161a8
+      internalID: 451457764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_52
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec836c18be0614449b9cb9e2876c6cd7
+      internalID: 515453624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_53
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a98d5ffb4b854ba8371e3bd756746
+      internalID: -406202691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_54
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaedb19331d51241a79c06e8fb5222a
+      internalID: 1716193745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba444663c87923458bf6e29dda13961
+      internalID: -1523976183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_56
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9847db8b839ba4549887ebc7df064b9c
+      internalID: 2021443485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_57
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acba5f14e2f672429c7dbfe8db23545
+      internalID: -1362435115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_58
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789db709c4260044b7d655065bbcb21
+      internalID: 873595352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_59
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 770
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a09c5a3f7118242a519a6d9fb1824e
+      internalID: -21847466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf29b9f77215bf40b5d1cdee1a0a89b
+      internalID: 84520435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74beabbf254dbe84d96419d54584716b
+      internalID: 1595927772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8402735c5e074b89c70fda777c0c8
+      internalID: -1744900217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52fa531452861c419a11ef8f3956a1b
+      internalID: 479409031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516f7397822cf543beaa94caa67446b
+      internalID: -794370030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9af06583864a47adaacfc9b15745f
+      internalID: 1499624397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b738ff4c0f1ac47874fdecbdbb62d8
+      internalID: -318661112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec143714701b14d872df5839bdaf9a
+      internalID: 472011056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_68
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876cc39270f34a42871c27486e8f57e
+      internalID: -1103044130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_69
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf307f5b5fa2d348be74d288eb44b3d
+      internalID: -282925784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_70
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53388e3f63b3cfb40902d5788e6d6ca8
+      internalID: 2129346215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_71
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b542f773370b74e899206288d4f574
+      internalID: 838749569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_72
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def6b9a5ae3b954ba88436a5917a425
+      internalID: 1169635483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_73
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fca3962263c0b449bdf04c839069e9
+      internalID: 115632041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_74
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225ab0c86e24f042a4e2321e9e0b6fb
+      internalID: -1516391173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_75
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1b176a5ad2df247ab99c0172928b5a
+      internalID: -2059531998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_76
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf557d809bb6b4ba38ff3c802a7c00
+      internalID: 660865882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_77
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96aa47400e01ee458d067d7c2ea83a5
+      internalID: 1095099363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_78
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5720683576be4eabf35aedc0a07bf
+      internalID: -2026440452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_79
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 685
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5094807e2782749488131c2126e01db7
+      internalID: 816330353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183cd9a10d62a5540b81425849e2d352
+      internalID: 73722465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a644e0df904e094da78583b766a1e7c
+      internalID: 433334971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0b991f6bed6eb48baa0e17d917a0c2
+      internalID: -775262263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c12c1eca9dbb54ca49fd1f52661340
+      internalID: -1158522801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_84
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3864a91cef63d4dbf307677ee22888
+      internalID: 898998101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_85
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fc4a4f820de94a83a3f8e283b54a7
+      internalID: -987132586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_86
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2674df7922f4b4ea28b1dd6e867216
+      internalID: 533108678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aa8c6d337433c4b962b59399f8bb77
+      internalID: -869547595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_88
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd322783a1731649a547c1f010d2fe5
+      internalID: 1670353465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_89
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787573a7149f9ce47a07b8c472b9bc88
+      internalID: -1441588266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_90
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92662a306f3ed45a554b341274dc4d
+      internalID: -1902270997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_91
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025377d9043bb94290e3f1c9db363f4
+      internalID: 596692322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_92
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf48f879e809549aad9ef15a5be0ba
+      internalID: 1255989053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_93
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634294d85a8b408408469908e16efdfe
+      internalID: 111570253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_94
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15602ae36e1764c48a225e4d0677ce17
+      internalID: -98862389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884081c43205f294a8f9db04d7557143
+      internalID: 1298994044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_96
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e1364b5ddad04b94d2c9d4aa71e70
+      internalID: -1371855192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_97
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8267a057623a78a4aa4fb53a65d6970d
+      internalID: -711282278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_98
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004c0333830b79429a8da79443494cb
+      internalID: 83023416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_99
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4b28590247fe4285acfb8ba279656
+      internalID: 1312514426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711fa663cc0579449b6a3613866b28f5
+      internalID: 1011560050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_101
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf37ce00e8ea1b447be3b1edad60a70e
+      internalID: 443125843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_102
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08e6777b24d7a44a1f73eac2b8f7aa
+      internalID: 1754449870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_103
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91c98dc297a1a48a6755d8af708d8e
+      internalID: 538199571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_104
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d466ea7d2bfb74c8c6798f8af8c71f
+      internalID: 1582738765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bbd2afa0b07c149b5a27b281e9a71c
+      internalID: -945688494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_106
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78d6367852ba344897da941febe5ca
+      internalID: -2479810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_107
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8b71a3ec47ea841aa2ac0e72d9a772
+      internalID: -1970016719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_108
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d10e50aac1144fb727f62a167c541
+      internalID: 93646946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_109
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfddb93a43d3243b59c55406192564
+      internalID: 985214976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_110
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13bd460c7341dd4ba2e4c2f0e8f7771
+      internalID: 1642925212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_111
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce34571e0e2d5408caf7066bd8d160
+      internalID: 1338657358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_112
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc10737d2a2ffe4b995710ae297900b
+      internalID: -1281700304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_113
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd207918409a847a300a16fc666a2d
+      internalID: 155568520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_114
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692a9c2d8a4306459c9a4b7ff5162ca
+      internalID: 352804572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3798819dd50eb747a38ed6b23670a5f
+      internalID: 1832510213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_116
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ce502e21f6a4949b973c4ff67b3a7c
+      internalID: 1661415581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_117
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451996c97e431bd4eb9102d607c0d520
+      internalID: -512226859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_118
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e573c90fbc2ae8e408191813464024cd
+      internalID: 1472885105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_119
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 515
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390289267d325f748874a2a032220e7c
+      internalID: 1739554347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a898862f486eae46a4f05f3f2af4163
+      internalID: -664980597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_121
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f56de89f183246bf7437dfe6f102b
+      internalID: -1697984386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_122
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950cf150601baf409c2ade34d36229e
+      internalID: 1832809258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_123
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f2d151284463a4181651af4a364525
+      internalID: -276476745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_124
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d89490e9efc7c40b74dc698b7c8b01
+      internalID: -1090232372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_125
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906426f7b7df09f4dafa98660ff96118
+      internalID: 1804750511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_126
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217888a4d0ff30429362bf7c3a15e80
+      internalID: 1024240851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_127
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c0b0638254344eb24be8f40c3b615
+      internalID: 953229203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_128
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e266e8e977677ff478dc20f124b5c1db
+      internalID: -330962464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_129
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e465bc982dc4e643b8753bf19fce0b9
+      internalID: 883005171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_130
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598db5ed4ed3aa40afd70c77b32d9c0
+      internalID: 1970917856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_131
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca3827d5677a347bf255f291378b89
+      internalID: -147790946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_132
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0814216d0db7a64cb6cb5900e65791e
+      internalID: -1085343602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_133
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d4dded26c5524bb670c462947efaf
+      internalID: 1118118142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_134
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983d5db3ceb5cd4d98eef8a4aa3081e
+      internalID: 1964097264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_135
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb9f1d2280681428af10c30ced5209
+      internalID: -1328710044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_136
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b85e029be559c4988793770537fe9c
+      internalID: -1910396600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_137
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb483573ed609b74898d020c7afe7047
+      internalID: -1429968979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_138
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fdd6646d58a524197537c8f7de93ef
+      internalID: -625169851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_139
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fbf4ec2b93ecf44b78025d22cb709b
+      internalID: -1365948051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fbd63be2b45e54bb177a4659f77dd9
+      internalID: 1090683181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e4e7cfc0a962439b3ccaab8270f6b
+      internalID: 155917267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_142
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80124946fa5724c4ea92be875da91d55
+      internalID: -911331868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_143
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827f67eeef9a330469856094864ff26d
+      internalID: 2117885088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_144
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe5ac09c01951f4080e99a7406afb99
+      internalID: -1790091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_145
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3390aa4b547ba418e4159af0e3966a
+      internalID: 594063534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_146
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4cd2ea4d49b1045907e6fdcb7fa0ec
+      internalID: -1074209250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_147
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2a6171c75ba440a03ee8d8b55c6c4
+      internalID: -1000715763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_148
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79779eaf520b9674d9f020a680322a27
+      internalID: -1314806617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_149
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e36b85560907744d8852da0137698e4
+      internalID: 905489142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_150
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2e9d2b8ad99a48a944a8e824e5b23
+      internalID: -82203579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_151
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982fd2bc5e85f74bbc8f06484195a85
+      internalID: 1283081437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_152
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62dcf8700c95b24e8e7de69276de79e
+      internalID: -441023795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_153
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035ebc033900b944aa3165671f2a23e
+      internalID: -1450129901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_154
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24945c7201605489a533ba128d0803
+      internalID: 262783578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_155
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b770f0e1893e604e96162362545beda
+      internalID: 1574208783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_156
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce9da5552deabe4fb9fdf4a3a2d51ac
+      internalID: 1867837864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_157
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822dc02ee74600478d905d8715085af
+      internalID: 167030526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_158
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81a8080fbab7c4c840fc2592e0df72
+      internalID: 463685754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_159
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 345
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4878eec70156b439075cdf370edcc8
+      internalID: -964615232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b819287b0133147a31dc765975d11e
+      internalID: 1131471240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_161
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6a6dc3e031f043947aa341c8c1264
+      internalID: 1573204650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_162
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059701dfb02d20a48996295410a754bc
+      internalID: 1148795162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_163
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea6ebe326501f4f84b3206b3e9d7a3
+      internalID: 1253435843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_164
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83072892a7a9295469d2f7acc9819b40
+      internalID: -431991776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_165
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b564d6f6a7d76408cbdc41bb6acab1
+      internalID: 134193976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_166
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81bc5149e897a4599398dfdb937f1a
+      internalID: -1400851861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_167
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2765a2b479a506438316d4ca9e7abc5
+      internalID: -219944686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_168
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a03bc82cb0d6948b72b4f02efd9375
+      internalID: -1194682987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_169
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4c8091b20d054eabfdbb273b11bed
+      internalID: 1853190605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_170
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00137618576b4434bab06def5bdd8a77
+      internalID: -1217050457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_171
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818a2747abab8c4283986a2d5dd3f58
+      internalID: -1697283412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_172
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19dec5436e21b42ac472d3198123e6
+      internalID: 1952610888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_173
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d827536866c64e906b8d4b7ead78f
+      internalID: 1937416669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_174
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc5c2e4771d40443b8ee6ed7a398084
+      internalID: 277757328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_175
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ba02b1d5bc3c4a966e44b65a747e6
+      internalID: -247138961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_176
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826350c35cdbb54a9099fda5d4acb51
+      internalID: -1789117545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_177
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0615f99640002847915acdf7c67e024
+      internalID: 306174016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_178
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167597c06f39ba42b794620f188b581
+      internalID: 1916702426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_179
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07603fd266677e94aabe1203053a5cd8
+      internalID: 1553884596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022ad47c442b3f140b117a30d2c4cc8d
+      internalID: -1412296967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_181
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073205a0a504aaa498471df208640fc2
+      internalID: -1812655761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_182
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b079b5c5a14fbe4b8eb6fab8f1600e6
+      internalID: 904434487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_183
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3ec7cf5dd4a6498bdc227cf2f4020
+      internalID: 1067285749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_184
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d50f36ead38e489ea70abf3902620
+      internalID: 983119665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_185
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67fc45da069464abbfcef7259674d0
+      internalID: -1248935319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_186
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26b898a2e089443b6115de0aea911e
+      internalID: 714598978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_187
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21038b285e800b64cbaa81a673e5bca2
+      internalID: -1896132284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_188
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278374547ae0daa449ce10af478c6a71
+      internalID: -561145331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_189
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d7b082c0f507d4fa564a72453a28a1
+      internalID: -1248563547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_190
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f2b8fb1ae58644b65b890043900c9
+      internalID: 905983500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_191
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedc1a6b94f27ff4f9d38c2c7556ebb6
+      internalID: 1196703143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_192
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44085da1b3b469448a190627a47d272
+      internalID: -492718831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_193
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af8f612480a7f45b5d5370cba1f7b3
+      internalID: 817259455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_194
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a26ab2ee54d9640887d7baae52e5b9
+      internalID: -1891983891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_195
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d6817d9b3b6c84290ca4123a9b1212
+      internalID: -134708526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_196
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5608b4528dc05408c5de859e4ff837
+      internalID: 579045526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_197
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78c7b0f03879ed468abde008a724ce8
+      internalID: 986578154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_198
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c1726a117b8fa49b2228f656193c26
+      internalID: -688267117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_199
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c480b9f432c92e44ea7a4e77ef3923d4
+      internalID: -435332537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_200
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101f9cda6dd4c8245b2584c340da6d4b
+      internalID: 1096902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_201
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d95decaf25cad409a9656567933295
+      internalID: 168639834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_202
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6700605a956a0d4984bbf5de77cef61
+      internalID: 557235686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_203
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630db24caf7f8a944afdc6d5231e6805
+      internalID: -381964894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_204
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e97b467c5c244daae8297dd0d6cdd
+      internalID: 902806518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_205
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d96d9322524ec40ae49ad1078ad215
+      internalID: -1313147705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_206
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08216e90841276c4ebc92e95ed6fef5a
+      internalID: 1986878784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_207
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a185b029e1634e98953a665da3ebe
+      internalID: 860284938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_208
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9bdc58d106b264a9c3ec5ea71621ea
+      internalID: 2526851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_209
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022fab5d8577f894b86d47cd14b1292b
+      internalID: 325403702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_210
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae18fbf7bd68c4c869aa24718faa75
+      internalID: -751725104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_211
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161aa63b3ee08d24498ec94e4d98cc88
+      internalID: -198062610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_212
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24a2239ca7cfb548af41102db698e28
+      internalID: 113364773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_213
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5e4c82140d864fbcda43ced5cf5b7
+      internalID: -1863697526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_214
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0f83eccfc3774dbb9ef376f7996b4
+      internalID: 631285390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_215
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab4e3b30b84faa4b927f79ef01c51ad
+      internalID: 553534440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_216
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507213b20d279941aead4eb649b2723
+      internalID: -5560972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_217
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ec3ccab8bfb747982bf4ab360eaf5
+      internalID: 858465820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_218
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c69f5046a88cc41badb905854e7224
+      internalID: -2132020201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_219
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64cdd955f785114695edff25aea8f11
+      internalID: 154857378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_220
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da17dfa6754517a4ead4dfb78f886316
+      internalID: -389404432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_221
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0321d93a037f564196744becad1eaf2
+      internalID: -397752328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_222
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb5d706f86dcd498fa2d24c1338d61
+      internalID: -803803475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_223
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c8393306f0af47965b07a46a1c67e
+      internalID: 1954965408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_224
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d71b0624f69747aba4fb61099c7a2
+      internalID: 1007740788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_225
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c886f900b47d6441b70e6ec0517a2a3
+      internalID: -2043354302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_226
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ba12c6361e6b9468d22c0d724ac7e9
+      internalID: -1406540984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_227
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7428e13cb70dc3f46bf03025f0806129
+      internalID: -1142578095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_228
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d8b1d5d8f47f419af1c17a278f3dd
+      internalID: 1769455428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_229
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829ad507ff8aa549b6bbbb2b3aa1e5e
+      internalID: 1033636040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_230
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51faf56a74b684581d4133ac47f57f
+      internalID: -1133594958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_231
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b8b991d21cd041aa6f8ea0d572e15
+      internalID: 1595451863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_232
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee55f3ed57345047a29cec43a980ff9
+      internalID: 941752022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_233
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce809be0a3b2cbe4792a13768d6080ae
+      internalID: 723184285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_234
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a983db2e2b87e459e25ca9491df73d
+      internalID: -1263851242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_235
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aac8ee41ec266489616359a28792c5
+      internalID: -332514348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_236
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32caba735e9b2314aa8f07dac6ba8dd4
+      internalID: -1633664452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_237
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d02f041fba9541be3e2a74464688c
+      internalID: -1665830646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_238
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a52d6b60fc0044999de40fbdf23919
+      internalID: 595022439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dmz1uoita9311_239
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288dde994fa58740be228fc846c76a4
+      internalID: -2135575803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dmz1uoita9311_0: 204470318
+      dmz1uoita9311_1: 338602677
+      dmz1uoita9311_10: 484355704
+      dmz1uoita9311_100: 1011560050
+      dmz1uoita9311_101: 443125843
+      dmz1uoita9311_102: 1754449870
+      dmz1uoita9311_103: 538199571
+      dmz1uoita9311_104: 1582738765
+      dmz1uoita9311_105: -945688494
+      dmz1uoita9311_106: -2479810
+      dmz1uoita9311_107: -1970016719
+      dmz1uoita9311_108: 93646946
+      dmz1uoita9311_109: 985214976
+      dmz1uoita9311_11: -1575005822
+      dmz1uoita9311_110: 1642925212
+      dmz1uoita9311_111: 1338657358
+      dmz1uoita9311_112: -1281700304
+      dmz1uoita9311_113: 155568520
+      dmz1uoita9311_114: 352804572
+      dmz1uoita9311_115: 1832510213
+      dmz1uoita9311_116: 1661415581
+      dmz1uoita9311_117: -512226859
+      dmz1uoita9311_118: 1472885105
+      dmz1uoita9311_119: 1739554347
+      dmz1uoita9311_12: -151659393
+      dmz1uoita9311_120: -664980597
+      dmz1uoita9311_121: -1697984386
+      dmz1uoita9311_122: 1832809258
+      dmz1uoita9311_123: -276476745
+      dmz1uoita9311_124: -1090232372
+      dmz1uoita9311_125: 1804750511
+      dmz1uoita9311_126: 1024240851
+      dmz1uoita9311_127: 953229203
+      dmz1uoita9311_128: -330962464
+      dmz1uoita9311_129: 883005171
+      dmz1uoita9311_13: 2108415666
+      dmz1uoita9311_130: 1970917856
+      dmz1uoita9311_131: -147790946
+      dmz1uoita9311_132: -1085343602
+      dmz1uoita9311_133: 1118118142
+      dmz1uoita9311_134: 1964097264
+      dmz1uoita9311_135: -1328710044
+      dmz1uoita9311_136: -1910396600
+      dmz1uoita9311_137: -1429968979
+      dmz1uoita9311_138: -625169851
+      dmz1uoita9311_139: -1365948051
+      dmz1uoita9311_14: 1482619275
+      dmz1uoita9311_140: 1090683181
+      dmz1uoita9311_141: 155917267
+      dmz1uoita9311_142: -911331868
+      dmz1uoita9311_143: 2117885088
+      dmz1uoita9311_144: -1790091181
+      dmz1uoita9311_145: 594063534
+      dmz1uoita9311_146: -1074209250
+      dmz1uoita9311_147: -1000715763
+      dmz1uoita9311_148: -1314806617
+      dmz1uoita9311_149: 905489142
+      dmz1uoita9311_15: 2019182664
+      dmz1uoita9311_150: -82203579
+      dmz1uoita9311_151: 1283081437
+      dmz1uoita9311_152: -441023795
+      dmz1uoita9311_153: -1450129901
+      dmz1uoita9311_154: 262783578
+      dmz1uoita9311_155: 1574208783
+      dmz1uoita9311_156: 1867837864
+      dmz1uoita9311_157: 167030526
+      dmz1uoita9311_158: 463685754
+      dmz1uoita9311_159: -964615232
+      dmz1uoita9311_16: -1720651235
+      dmz1uoita9311_160: 1131471240
+      dmz1uoita9311_161: 1573204650
+      dmz1uoita9311_162: 1148795162
+      dmz1uoita9311_163: 1253435843
+      dmz1uoita9311_164: -431991776
+      dmz1uoita9311_165: 134193976
+      dmz1uoita9311_166: -1400851861
+      dmz1uoita9311_167: -219944686
+      dmz1uoita9311_168: -1194682987
+      dmz1uoita9311_169: 1853190605
+      dmz1uoita9311_17: -2024951335
+      dmz1uoita9311_170: -1217050457
+      dmz1uoita9311_171: -1697283412
+      dmz1uoita9311_172: 1952610888
+      dmz1uoita9311_173: 1937416669
+      dmz1uoita9311_174: 277757328
+      dmz1uoita9311_175: -247138961
+      dmz1uoita9311_176: -1789117545
+      dmz1uoita9311_177: 306174016
+      dmz1uoita9311_178: 1916702426
+      dmz1uoita9311_179: 1553884596
+      dmz1uoita9311_18: -1699505371
+      dmz1uoita9311_180: -1412296967
+      dmz1uoita9311_181: -1812655761
+      dmz1uoita9311_182: 904434487
+      dmz1uoita9311_183: 1067285749
+      dmz1uoita9311_184: 983119665
+      dmz1uoita9311_185: -1248935319
+      dmz1uoita9311_186: 714598978
+      dmz1uoita9311_187: -1896132284
+      dmz1uoita9311_188: -561145331
+      dmz1uoita9311_189: -1248563547
+      dmz1uoita9311_19: 2086242038
+      dmz1uoita9311_190: 905983500
+      dmz1uoita9311_191: 1196703143
+      dmz1uoita9311_192: -492718831
+      dmz1uoita9311_193: 817259455
+      dmz1uoita9311_194: -1891983891
+      dmz1uoita9311_195: -134708526
+      dmz1uoita9311_196: 579045526
+      dmz1uoita9311_197: 986578154
+      dmz1uoita9311_198: -688267117
+      dmz1uoita9311_199: -435332537
+      dmz1uoita9311_2: 1055814344
+      dmz1uoita9311_20: 1032678010
+      dmz1uoita9311_200: 1096902822
+      dmz1uoita9311_201: 168639834
+      dmz1uoita9311_202: 557235686
+      dmz1uoita9311_203: -381964894
+      dmz1uoita9311_204: 902806518
+      dmz1uoita9311_205: -1313147705
+      dmz1uoita9311_206: 1986878784
+      dmz1uoita9311_207: 860284938
+      dmz1uoita9311_208: 2526851
+      dmz1uoita9311_209: 325403702
+      dmz1uoita9311_21: -3242612
+      dmz1uoita9311_210: -751725104
+      dmz1uoita9311_211: -198062610
+      dmz1uoita9311_212: 113364773
+      dmz1uoita9311_213: -1863697526
+      dmz1uoita9311_214: 631285390
+      dmz1uoita9311_215: 553534440
+      dmz1uoita9311_216: -5560972
+      dmz1uoita9311_217: 858465820
+      dmz1uoita9311_218: -2132020201
+      dmz1uoita9311_219: 154857378
+      dmz1uoita9311_22: 595192098
+      dmz1uoita9311_220: -389404432
+      dmz1uoita9311_221: -397752328
+      dmz1uoita9311_222: -803803475
+      dmz1uoita9311_223: 1954965408
+      dmz1uoita9311_224: 1007740788
+      dmz1uoita9311_225: -2043354302
+      dmz1uoita9311_226: -1406540984
+      dmz1uoita9311_227: -1142578095
+      dmz1uoita9311_228: 1769455428
+      dmz1uoita9311_229: 1033636040
+      dmz1uoita9311_23: 146254837
+      dmz1uoita9311_230: -1133594958
+      dmz1uoita9311_231: 1595451863
+      dmz1uoita9311_232: 941752022
+      dmz1uoita9311_233: 723184285
+      dmz1uoita9311_234: -1263851242
+      dmz1uoita9311_235: -332514348
+      dmz1uoita9311_236: -1633664452
+      dmz1uoita9311_237: -1665830646
+      dmz1uoita9311_238: 595022439
+      dmz1uoita9311_239: -2135575803
+      dmz1uoita9311_24: -890209453
+      dmz1uoita9311_25: 1447434047
+      dmz1uoita9311_26: -1869425487
+      dmz1uoita9311_27: -1255201871
+      dmz1uoita9311_28: -541395934
+      dmz1uoita9311_29: -999771889
+      dmz1uoita9311_3: 1398863880
+      dmz1uoita9311_30: 1914027215
+      dmz1uoita9311_31: 1629150151
+      dmz1uoita9311_32: 237752859
+      dmz1uoita9311_33: -1810147219
+      dmz1uoita9311_34: 272150063
+      dmz1uoita9311_35: 1642645031
+      dmz1uoita9311_36: 1460675000
+      dmz1uoita9311_37: -809511023
+      dmz1uoita9311_38: 789026653
+      dmz1uoita9311_39: -455514323
+      dmz1uoita9311_4: 389976503
+      dmz1uoita9311_40: -1626376525
+      dmz1uoita9311_41: -775442169
+      dmz1uoita9311_42: 2074046664
+      dmz1uoita9311_43: -696242661
+      dmz1uoita9311_44: -539201119
+      dmz1uoita9311_45: 2102173091
+      dmz1uoita9311_46: 725851382
+      dmz1uoita9311_47: -2022599488
+      dmz1uoita9311_48: -49010791
+      dmz1uoita9311_49: -693155322
+      dmz1uoita9311_5: -2136960497
+      dmz1uoita9311_50: 338695658
+      dmz1uoita9311_51: 451457764
+      dmz1uoita9311_52: 515453624
+      dmz1uoita9311_53: -406202691
+      dmz1uoita9311_54: 1716193745
+      dmz1uoita9311_55: -1523976183
+      dmz1uoita9311_56: 2021443485
+      dmz1uoita9311_57: -1362435115
+      dmz1uoita9311_58: 873595352
+      dmz1uoita9311_59: -21847466
+      dmz1uoita9311_6: 1020833206
+      dmz1uoita9311_60: 84520435
+      dmz1uoita9311_61: 1595927772
+      dmz1uoita9311_62: -1744900217
+      dmz1uoita9311_63: 479409031
+      dmz1uoita9311_64: -794370030
+      dmz1uoita9311_65: 1499624397
+      dmz1uoita9311_66: -318661112
+      dmz1uoita9311_67: 472011056
+      dmz1uoita9311_68: -1103044130
+      dmz1uoita9311_69: -282925784
+      dmz1uoita9311_7: 988338177
+      dmz1uoita9311_70: 2129346215
+      dmz1uoita9311_71: 838749569
+      dmz1uoita9311_72: 1169635483
+      dmz1uoita9311_73: 115632041
+      dmz1uoita9311_74: -1516391173
+      dmz1uoita9311_75: -2059531998
+      dmz1uoita9311_76: 660865882
+      dmz1uoita9311_77: 1095099363
+      dmz1uoita9311_78: -2026440452
+      dmz1uoita9311_79: 816330353
+      dmz1uoita9311_8: -1384467306
+      dmz1uoita9311_80: 73722465
+      dmz1uoita9311_81: 433334971
+      dmz1uoita9311_82: -775262263
+      dmz1uoita9311_83: -1158522801
+      dmz1uoita9311_84: 898998101
+      dmz1uoita9311_85: -987132586
+      dmz1uoita9311_86: 533108678
+      dmz1uoita9311_87: -869547595
+      dmz1uoita9311_88: 1670353465
+      dmz1uoita9311_89: -1441588266
+      dmz1uoita9311_9: 1972857859
+      dmz1uoita9311_90: -1902270997
+      dmz1uoita9311_91: 596692322
+      dmz1uoita9311_92: 1255989053
+      dmz1uoita9311_93: 111570253
+      dmz1uoita9311_94: -98862389
+      dmz1uoita9311_95: 1298994044
+      dmz1uoita9311_96: -1371855192
+      dmz1uoita9311_97: -711282278
+      dmz1uoita9311_98: 83023416
+      dmz1uoita9311_99: 1312514426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
