@@ -126,5 +126,14 @@ public class PlayerController : MonoBehaviour
         _ammoText.text = _currentAmmo.ToString();
     }
     #endregion Ammo
+    #region MovementSystem
+    /*public void ProcessMove(Vector2 input)
+    {
+        Vector3 moveDirection = Vector3.zero;
+        moveDirection.x = input.x;
+        moveDirection.z = input.y;
+
+    }*/
+    #endregion MovementSystem
     #endregion Methods
 }
