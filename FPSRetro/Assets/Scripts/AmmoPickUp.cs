@@ -5,6 +5,7 @@ using UnityEngine;
 public class AmmoPickUp : MonoBehaviour
 {
     private int _ammoAmount = 20;
+    [SerializeField] private Animator _ammoPickUp;
     void Start()
     {
         
@@ -21,8 +22,8 @@ public class AmmoPickUp : MonoBehaviour
         {
             PlayerController._playerInstance._currentAmmo += _ammoAmount;
             PlayerController._playerInstance.UpdateAmmoUI();
-
-            Destroy(gameObject);
+            _ammoPickUp.SetTrigger("GetAmmo");
+            Destroy(gameObject, .2f);
         }
     }
 }

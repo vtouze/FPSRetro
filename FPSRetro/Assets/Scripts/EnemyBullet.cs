@@ -8,11 +8,15 @@ public class EnemyBullet : MonoBehaviour
     [SerializeField] private float _bulletSpeed = 5f;
     [SerializeField] private Rigidbody2D _rb = null;
     private Vector3 _direction;
+
+    [SerializeField] private Animator _damage;
     void Start()
     {
         _direction = PlayerController._playerInstance.transform.position;
         _direction.Normalize();
         _direction = _direction * _bulletSpeed;
+
+        _damage = GetComponentInChildren<Animator>();
     }
 
     void Update()
@@ -25,7 +29,8 @@ public class EnemyBullet : MonoBehaviour
         if(other.tag == "Player")
         {
             PlayerController._playerInstance.TakeDamage(_damageAmount);
-            Destroy(gameObject);
+            _damage.SetTrigger("GetHit");
+            Destroy(gameObject, 1);
         }
     }
 }

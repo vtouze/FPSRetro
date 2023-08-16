@@ -25,6 +25,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Animator _movingAnim;
 
     [SerializeField] private Animator _damageCrosshair;
+
+    [SerializeField] private GameObject _pauseMenu;
     #endregion Fields
 
     void Awake()
@@ -37,7 +39,7 @@ public class PlayerController : MonoBehaviour
         _currentHealth = _maxHealth;
         _healthText.text = _currentHealth.ToString() + "%";
         _ammoText.text = _currentAmmo.ToString();
-
+        _pauseMenu.SetActive(false);
     }
 
     void Update()
@@ -94,7 +96,12 @@ public class PlayerController : MonoBehaviour
             #endregion Shooting
 
         }
-
+        #region PauseMenu
+        if(Input.GetKeyDown(KeyCode.P))
+        {
+            _pauseMenu.SetActive(true);
+        }
+        #endregion PauseMenu
         
     }
     #region Damage
