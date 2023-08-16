@@ -27,6 +27,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Animator _damageCrosshair;
 
     [SerializeField] private GameObject _pauseMenu;
+
+    public bool _hasShotgunInHand;
+    [SerializeField] private GameObject _shotgun;
+    public Animator _shotgunSelection;
+    [SerializeField] private GameObject _weaponsSelection;
     #endregion Fields
 
     void Awake()
@@ -40,6 +45,9 @@ public class PlayerController : MonoBehaviour
         _healthText.text = _currentHealth.ToString() + "%";
         _ammoText.text = _currentAmmo.ToString();
         _pauseMenu.SetActive(false);
+        _hasShotgunInHand = true;
+        _shotgun.SetActive(true);
+        _weaponsSelection.SetActive(false);
     }
 
     void Update()
@@ -58,8 +66,8 @@ public class PlayerController : MonoBehaviour
             transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z - _mouseInput.x);
             _viewCamera.transform.localRotation = Quaternion.Euler(_viewCamera.transform.localRotation.eulerAngles + new Vector3(0f, _mouseInput.y, 0f));
             #endregion Player View Control
-            #region Shooting
-            if (Input.GetMouseButtonDown(0))
+            #region Shooting{
+            if (Input.GetMouseButtonDown(0) && _hasShotgunInHand)
             {
                 if (_currentAmmo > 0)
                 {
@@ -85,6 +93,7 @@ public class PlayerController : MonoBehaviour
                     UpdateAmmoUI();
                 }
             }
+            
             if(_moveInput != Vector2.zero)
             {
                 _movingAnim.SetBool("isMoving", true);
@@ -92,6 +101,13 @@ public class PlayerController : MonoBehaviour
             else
             {
                 _movingAnim.SetBool("isMoving", false);
+            }
+
+            if(Input.GetKeyDown(KeyCode.Alpha2))
+            {
+                //_weaponsSelection.SetActive(true);
+                _hasShotgunInHand = true;
+                _shotgunSelection.SetTrigger("GetShotgun");
             }
             #endregion Shooting
 
@@ -147,5 +163,18 @@ public class PlayerController : MonoBehaviour
 
     }*/
     #endregion MovementSystem
+    #region Shotgun
+    public void HasShotgun()
+    {
+        if(_hasShotgunInHand)
+        {
+            _shotgun.SetActive(true);
+        }
+        else
+        {
+            _shotgun.SetActive(false);
+        }
+    }
+    #endregion Shotgun
     #endregion Methods
 }
