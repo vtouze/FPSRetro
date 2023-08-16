@@ -22,6 +22,8 @@ public class PlayerController : MonoBehaviour
     private bool _hasDied;
     [SerializeField] private Text _healthText, _ammoText;
     [SerializeField] private Animator _movingAnim;
+
+    [SerializeField] private Animator _damageCrosshair;
     #endregion Fields
 
     void Awake()
@@ -67,6 +69,7 @@ public class PlayerController : MonoBehaviour
                         if (hit.transform.tag == "Enemy")
                         {
                             hit.transform.parent.GetComponent<EnemyController>().TakeDamage();
+                            _damageCrosshair.SetTrigger("Hit");
                         }
                     }
                     else
