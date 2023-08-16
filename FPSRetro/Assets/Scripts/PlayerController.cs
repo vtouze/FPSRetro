@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
+using EZCameraShake;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -62,6 +63,7 @@ public class PlayerController : MonoBehaviour
                 {
                     Ray ray = _viewCamera.ViewportPointToRay(new Vector3(.5f, .5f, 0f));
                     RaycastHit hit;
+                    CameraShaker.Instance.ShakeOnce(2f,2f,.1f,.1f);
                     if (Physics.Raycast(ray, out hit))
                     {
                         //Debug.Log("I'm looking at " + hit.transform.name);
